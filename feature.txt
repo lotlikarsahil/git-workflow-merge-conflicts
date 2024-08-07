@@ -1,2 +1,3 @@
 This is a git project to understand merge conflicts
 Adding comment from local main branch.
+Here we will be releasing new feature for our git project.
