@@ -1,1 +1,2 @@
 #This is feature file and comment added from feature branch
+#New feature 1
